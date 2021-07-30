@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import About from "./components/About";
 import Footer from "./components/Footer";
 import Portfolio from "./components/Portfolio";
+import ContactForm from "./components/Contact";
 
 function App() {
   const [sections] = useState([
@@ -25,6 +26,7 @@ function App() {
       <main>
         <About />
         <Portfolio />
+        <ContactForm />
         <Footer />
       </main>
     </div>

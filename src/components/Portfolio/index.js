@@ -58,7 +58,7 @@ const Portfolio = () => {
       <section id="projects">
         <h2> Projects:</h2>
         {projects.map((project) => (
-          <Project project={project} />
+          <Project key={project.name} project={project} />
         ))}
       </section>
     );
