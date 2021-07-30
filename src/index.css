@@ -116,7 +116,7 @@ header ul li span:hover {
 
 /* Projects section */
 
-#projects {
+#projects section {
   width: 90%;
   margin: 0 auto;
   display: flex;
@@ -124,24 +124,24 @@ header ul li span:hover {
   justify-content: space-between;
 }
 
-#projects a {
+#projects section a {
   text-decoration: none;
   width: 45%;
   margin: 5px;
   height: 200px;
 }
 
-#projects a :hover {
+#projects section a :hover {
   opacity: 0.5;
 }
-#projects div {
+#projects section div {
   display: block;
   padding: 5px;
   width: 100%;
   margin-bottom: 20px;
 }
-#projects a:first-child,
-#projects a:nth-child(2) {
+#projects section a:first-child,
+#projects section a:nth-child(2) {
   width: 100%;
 }
 .project {
@@ -164,6 +164,9 @@ header ul li span:hover {
 }
 .weather {
   background-image: url("./assets/img/weather-bg.png");
+}
+.code-quiz {
+  background-image: url("./assets/img/code-quiz-bg.png");
 }
 
 .trade-up {
