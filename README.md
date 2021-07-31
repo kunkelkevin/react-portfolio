@@ -19,16 +19,16 @@ In order to run the program, you can download or clone the program from my GitHu
 
 The react porfolio can be found [here](https://kunkelkevin.github.io/react-portfolio).
 
-Screenshot displaying the About Me section:
+Screenshot displaying the About Me section:<br />
 ![About Me](/src/assets/img/about-me.png "About Me section")
 
-Screenshot displaying the Portfolio section:
+Screenshot displaying the Portfolio section:<br />
 ![Portfolio](/src/assets/img/projects.png "Portfolio section")
 
-Screenshot displaying the Contact Me section:
+Screenshot displaying the Contact Me section:<br />
 ![Contact Me](/src/assets/img/contact-me.png "Contact Me section")
 
-Screenshot displaying the Resume section:
+Screenshot displaying the Resume section:<br />
 ![Resume](/src/assets/img/resume.png "Resume section")
 
 ## Questions
