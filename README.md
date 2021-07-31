@@ -20,17 +20,17 @@ In order to run the program, you can download or clone the program from my GitHu
 The react porfolio can be found [here](https://kunkelkevin.github.io/react-portfolio).
 
 Screenshot displaying the About Me section:
-![About Me](/assets/img/about-me.png "About Me section")
+![About Me](/src/assets/img/about-me.png "About Me section")
 
 Screenshot displaying the Portfolio section:
-![Portfolio](/assets/img/portfolio.png "Portfolio section")
+![Portfolio](/src/assets/img/projects.png "Portfolio section")
 
 Screenshot displaying the Contact Me section:
-![Contact Me](/assets/img/contact-me.png "Contact Me section")
+![Contact Me](/src/assets/img/contact-me.png "Contact Me section")
 
 Screenshot displaying the Resume section:
-![Resume](/assets/img/resume.png "Resume section")
+![Resume](/src/assets/img/resume.png "Resume section")
 
 ## Questions
 
-The Budget Tracker Progressive Web Application can be found on the following [GitHub page](https://github.com/kunkelkevin/react-portfolio).<br />If you have any additional questions, you can email me [here](mailto:kunkelkevin@yahoo.com)
+The code for this portfolio can be found on the following [GitHub page](https://github.com/kunkelkevin/react-portfolio).<br />If you have any additional questions, you can email me [here](mailto:kunkelkevin@yahoo.com)
