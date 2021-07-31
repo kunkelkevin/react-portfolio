@@ -5,6 +5,7 @@ import About from "./components/About";
 import Footer from "./components/Footer";
 import Portfolio from "./components/Portfolio";
 import ContactForm from "./components/Contact";
+import Resume from "./components/Resume";
 
 function App() {
   const [sections] = useState([
@@ -24,9 +25,10 @@ function App() {
         setCurrentSection={setCurrentSection}
       ></Header>
       <main>
-        <About />
-        <Portfolio />
-        <ContactForm />
+        {currentSection.name === "About Me" && <About />}
+        {currentSection.name === "Portfolio" && <Portfolio />}
+        {currentSection.name === "Contact Me" && <ContactForm />}
+        {currentSection.name === "Resume" && <Resume />}
         <Footer />
       </main>
     </div>

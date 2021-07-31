@@ -69,27 +69,6 @@ header ul li span:hover {
   color: var(--primary);
 }
 
-/* Hero Section */
-
-.hero {
-  background-image: url("./assets/img/hero-bg.jpg");
-  width: 100%;
-  height: 200px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  margin-bottom: 10px;
-}
-
-.hero h2 {
-  display: inline-block;
-  position: relative;
-  background-image: radial-gradient(var(--primary), var(--light));
-  color: var(--third);
-  padding: 5px;
-  text-shadow: 0 0 2px;
-  top: 60%;
-  left: 20%;
-}
 /* About Section */
 
 #about {
@@ -205,7 +184,7 @@ input {
   font-size: 1rem;
   padding: 0.25rem;
   margin: 5px;
-  border: 1px solid var(--dark);
+  border: 1px solid var(--third);
   outline: none;
   border-radius: 3px;
   transition: box-shadow 0.2s;
@@ -223,6 +202,18 @@ textarea {
   padding: 5px;
 }
 
+/* Resume Section */
+.resume {
+  margin: 5px;
+}
+
+.resume h2 {
+  margin: 18px 5px 8px;
+}
+
+.resume ul li {
+  margin: 8px 32px;
+}
 /* Responsive screen size changes */
 
 @media screen and (min-width: 575px) {
