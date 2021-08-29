@@ -152,6 +152,10 @@ header ul li span:hover {
   background-image: url("./assets/img/trade-up-bg.png");
 }
 
+.ready-set-goal {
+  background-image: url("./assets/img/ready-set-goal-bg.png");
+}
+
 /* Footer with contact links */
 
 footer {

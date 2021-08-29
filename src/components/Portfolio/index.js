@@ -5,6 +5,15 @@ const Portfolio = () => {
   const [projects] = useState([
     {
       title: "Movie Fusion",
+      tech: "Interactive Full Stack MERN Project using google maps api",
+      description:
+        "Interactive website that allows you to login to access a map feature showing fields where you can join or create games.",
+      link: "https://kunkelkevin.github.io/Ready-Set-Goal/",
+      gitHub: "https://ready-set-goal.herokuapp.com/",
+      type: "ready-set-goal",
+    },
+    {
+      title: "Movie Fusion",
       tech: "Interactive Front End Project using JavaScript, CSS, HTML, APIs, Bulma, LocalStorage",
       description:
         "Interactive website that allows you to search and store movies, tv shows and actors and find what providers they can be streamed from.",
