@@ -68,6 +68,8 @@ const Portfolio = () => {
     },
   ]);
 
+  console.log(projects);
+  
   return (
     <section id="projects">
       <h2> Projects:</h2>
