@@ -2,6 +2,7 @@ import React from "react";
 
 function Project({ project }) {
   const { title, tech, description, link, gitHub, type } = project;
+  console.log(project,title);
   return (
     <section key={title}>
       <a
