@@ -8,8 +8,8 @@ const Portfolio = () => {
       tech: "Interactive Full Stack MERN Project using google maps api",
       description:
         "Interactive website that allows you to login to access a map feature showing fields where you can join or create games.",
-      link: "https://kunkelkevin.github.io/Ready-Set-Goal/",
-      gitHub: "https://ready-set-goal.herokuapp.com/",
+      link: "https://ready-set-goal.herokuapp.com/",
+      gitHub: "https://kunkelkevin.github.io/Ready-Set-Goal/",
       type: "ready-set-goal",
     },
     {
