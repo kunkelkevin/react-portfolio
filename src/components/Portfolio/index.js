@@ -4,7 +4,7 @@ import Project from "../Project";
 const Portfolio = () => {
   const [projects] = useState([
     {
-      title: "Movie Fusion",
+      title: "Ready Set Goal",
       tech: "Interactive Full Stack MERN Project using google maps api",
       description:
         "Interactive website that allows you to login to access a map feature showing fields where you can join or create games.",
